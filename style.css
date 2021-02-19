@@ -29,7 +29,7 @@ ul {
 .prev-btn {
   cursor: pointer;
   float: left;
-  display: mone;
+  display: none;
   color: #ffc478;
 }
 .next-btn {
